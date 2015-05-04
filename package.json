@@ -1,0 +1,25 @@
+{
+  "name": "TextSupport",
+  "version": "1.0.0",
+  "description": "TextSupport ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ew1773/TextSupport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ew1773/TextSupport/issues"
+  },
+  "homepage": "https://github.com/ew1773/TextSupport",
+  "dependencies": {
+    "firebase": "~2.2.4",
+    "twilio": "~2.1.0",
+    "express": "~4.12.3",
+    "body-parser": "~1.12.3"
+  }
+}
